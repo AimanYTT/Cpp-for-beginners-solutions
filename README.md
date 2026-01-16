@@ -6,6 +6,6 @@ The solutions may sometimes differ from your own approach. This is normal in pro
 
 Use this repository to:
 
--Compare your solutions
--Learn different approaches
--Improve your understanding of C++
+Compare your solutions
+,Learn different approaches
+,Improve your understanding of C++
